@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/numeral": "^0.0.28",
     "axios": "^0.19.2",
     "filesize": "^6.1.0",
     "history": "^4.10.1",
+    "numeral": "^2.0.6",
     "polished": "^3.5.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
